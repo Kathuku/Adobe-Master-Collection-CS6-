@@ -1,0 +1,97 @@
+<Deployment>
+<Properties>
+   <Property name="installLanguage">ja_JP</Property>
+<Property name="driverAdobeCode">{E8AD3069-9EB7-4BA8-8BFE-83F4E69355C0}</Property></Properties>
+
+<Payloads>
+   
+   <Payload adobeCode="{AC76BA86-1041-0000-7760-000000000005}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{4817D846-700B-474E-A31B-80892B3E92E3}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{30FD541D-3C9D-41C4-B240-A994EE4E0231}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{A4ED5E53-7AA0-11E1-BF04-B2D4D4A5360E}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{46251F95-B2F8-484A-9B5B-8C0E5A43A202}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{CA7C485C-7A89-11E1-B2C8-CD54B377BC52}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{4FAB339E-2132-434F-9376-9CD735E4C69C}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{1BF6648E-DFC9-4371-98B6-F6AD9358DF4F}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{7D4E9D10-AED6-485D-A2B0-9A1DF1A55545}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{9D3BB9DA-1F59-4DCF-A0BB-691FA8EA2582}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{CFB770D7-8D43-1014-922B-CC2715FADE3F}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{E8AD3069-9EB7-4BA8-8BFE-83F4E69355C0}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{9124DF4E-617D-486B-A970-8FA632244F24}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{3289C0E8-78B9-47D4-98E5-F25BFF1CBED4}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{E0D1B182-6827-4AD8-9C1D-CFFD4314DFE4}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{42CED1DA-1C36-45D2-88C0-C32DB6B82B49}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{3D46121C-A0E6-4259-B7E0-5127C218A096}">
+      <Action>remove</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{59EBB3D9-AA2A-4068-AB48-75ED6879B5F9}">
+      <Action>remove</Action>
+   </Payload>
+</Payloads>
+</Deployment>
